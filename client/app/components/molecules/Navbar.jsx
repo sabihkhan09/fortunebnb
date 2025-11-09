@@ -10,7 +10,7 @@ export default function Navbar() {
       {/* left logo */}
       <Link href="/" className="flex items-center gap-2">
         {/* <img src="/mascot.png" className="w-[58px] h-[58px]" /> */}
-        <span className="uppercase font-bold text-xl hidden sm:block">4tunebnb</span>
+        <span className="uppercase font-bold text-xl hidden sm:block">$4tunebnb</span>
       </Link>
 
       {/* center links */}

@@ -102,7 +102,7 @@ export default function HFirstTree() {
                   transition-all duration-300
                   shadow-[0_0_35px_rgba(255,255,255,.25)]
                   group-hover:scale-[1.45]
-                  group-hover:rotate-[6deg]
+                  group-hover:rotate-6
                   group-hover:shadow-[0_0_50px_rgba(255,255,0,.7)]
                 "
               />
